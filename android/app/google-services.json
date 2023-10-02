@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797226331397",
+    "project_id": "goalup-adbc0",
+    "storage_bucket": "goalup-adbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797226331397:android:cb5f4098d57eaf0a251b6c",
+        "android_client_info": {
+          "package_name": "com.example.goalup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sB4XFI51o8jTq58gzZib5Qi8wkWDh8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
